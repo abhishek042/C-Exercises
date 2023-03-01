@@ -33,5 +33,5 @@ int main()
             reverse(string);
         }
     }
-    return 0;
+    return 1;
 }
